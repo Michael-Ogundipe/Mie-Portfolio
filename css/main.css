@@ -851,9 +851,10 @@ i.fa.fa-envelope-o {
 }
 
 @media (max-width: 767px) {
+	
 	.element-item {
-		width: 100%;
-		margin-bottom: 50px;
+		width: 98%;
+		margin-bottom: 40px;
 	}
 
 	#site-header .pull-right {
